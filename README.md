@@ -31,6 +31,10 @@ The table below presents the performance metrics of the model on two different d
 
 For detailed results and analysis, please refer to the paper [here](10.1109/LSENS.2024.3423340).
 
+## Copyright
+
+© Utsab Saha and Sawradip Saha, 2024. All rights reserved.
+
 ## Citation:
 If you use this code or find it helpful for your research, please cite the paper as follows:
 **Citation in BibTeX format:**
@@ -47,6 +51,6 @@ If you use this code or find it helpful for your research, please cite the paper
   doi={10.1109/LSENS.2024.3423340}
 }
 
-## Copyright:
-© Utsab Saha and Sawradip Saha, 2024. All rights reserved.
+
+
 
