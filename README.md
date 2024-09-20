@@ -1,7 +1,7 @@
 # Project Title: Implementation of 'Decoding Human Activities: Analyzing Wearable Accelerometer and Gyroscope Data for Activity Recognition'
 
 This repository contains the implementation code for the paper **'Decoding Human Activities: Analyzing Wearable Accelerometer and
-Gyroscope Data for Activity Recognition'**. You can find the paper via the following [DOI link](10.1109/LSENS.2024.3423340).
+Gyroscope Data for Activity Recognition'**. You can find the paper via the following ([10.1109/LSENS.2024.3423340](https://doi.org/10.1109/LSENS.2024.3423340)).
 
 ## Abstract
 
@@ -29,7 +29,7 @@ The table below presents the performance metrics of the model on two different d
 | **UCI HAR**  | 97.35%    | 97.00%     | 97.10%  | 97.39%    |
 | **MotionSense** | 95.35%    | 95.00%     | 95.07%  | 95.21%    |
 
-For detailed results and analysis, please refer to the paper [here](10.1109/LSENS.2024.3423340).
+For detailed results and analysis, please refer to the paper ([10.1109/LSENS.2024.3423340](https://doi.org/10.1109/LSENS.2024.3423340)).
 
 ## Copyright
 
