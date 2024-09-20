@@ -15,6 +15,13 @@ To use this repository, clone it and install the required dependencies using `re
 1. Clone the repository:
    ```bash
    git clone https://github.com/utsabbuet17/FusionActNet.git
+2. Navigate to the project directory:
+   ```bash
+   cd FusionActNet
+
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
 
 
 ## Dataset:
@@ -50,7 +57,4 @@ If you use this code or find it helpful for your research, please cite the paper
   publisher={IEEE},
   doi={10.1109/LSENS.2024.3423340}
 }
-
-
-
 
