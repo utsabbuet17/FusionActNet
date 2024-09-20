@@ -40,7 +40,7 @@ For detailed results and analysis, please refer to the paper ([10.1109/LSENS.202
 
 ## Copyright
 
-© Utsab Saha and Sawradip Saha, 2024. All rights reserved.
+© Utsab Saha and Sawradip Saha, 2023. All rights reserved.
 
 ## Citation:
 If you use this code or find it helpful for your research, please cite the paper as follows:
