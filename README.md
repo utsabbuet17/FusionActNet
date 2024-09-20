@@ -1,7 +1,7 @@
 # Project Title: Implementation of 'Decoding Human Activities: Analyzing Wearable Accelerometer and Gyroscope Data for Activity Recognition'
 
 This repository contains the implementation code for the paper **'Decoding Human Activities: Analyzing Wearable Accelerometer and
-Gyroscope Data for Activity Recognition'**. You can find the paper via the following [DOI link:](10.1109/LSENS.2024.3423340).
+Gyroscope Data for Activity Recognition'**. You can find the paper via the following [DOI link](10.1109/LSENS.2024.3423340).
 
 ## Abstract
 
