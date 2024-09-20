@@ -33,6 +33,8 @@ For detailed results and analysis, please refer to the paper [here](10.1109/LSEN
 
 ## Citation:
 If you use this code or find it helpful for your research, please cite the paper as follows:
+**Citation in BibTeX format:**
+```bibtex
 @article{author2024fusionactnet,
   title={Decoding Human Activities: Analyzing Wearable Accelerometer and Gyroscope Data for Activity Recognition},
   author={Utsab Saha, Sawradip Saha, Md. Tahmid Kabir, Shaikh Anowarul Fattah, and Mohammad Saquib},
